@@ -13,12 +13,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
