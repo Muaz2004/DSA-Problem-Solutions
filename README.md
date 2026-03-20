@@ -8,19 +8,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 ## Array
-
-| [0506-relative-ranks](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
+|  |
+| ------- |
 | [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 ## Sorting
-| [0506-relative-ranks](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
-| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
+|  |
+| ------- |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 (https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0506-relative-ranks) |
 -Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
-| [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
+|  |
+| ------- |
 <!---LeetCode Topics End-->
