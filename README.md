@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 ## Sorting
 |  |
