@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
