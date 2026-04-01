@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
