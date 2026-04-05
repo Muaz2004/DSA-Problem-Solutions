@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,9 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
