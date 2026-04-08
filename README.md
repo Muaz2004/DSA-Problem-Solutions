@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
 ## Heap (Priority Queue)
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
