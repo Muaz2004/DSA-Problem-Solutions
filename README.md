@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0118-pascals-triangle) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
 ## Heap (Priority Queue)
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
