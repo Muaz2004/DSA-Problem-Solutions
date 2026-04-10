@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
