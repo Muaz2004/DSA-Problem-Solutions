@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
