@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
 |  |
 | ------- |
