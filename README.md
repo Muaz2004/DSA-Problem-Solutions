@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0888-fair-candy-swap) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0064-minimum-path-sum) |
+| [0463-island-perimeter](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0463-island-perimeter) |
 ## Bit Manipulation
 |  |
 | ------- |
